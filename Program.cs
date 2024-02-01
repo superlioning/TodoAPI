@@ -33,6 +33,8 @@ namespace TodoAPI
             app.MapControllers();
 
             app.Run();
+            //Enhancement
+            app.Run();
         }
     }
 }
